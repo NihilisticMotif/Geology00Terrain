@@ -13,4 +13,6 @@ Goal: Creating Random Terrain and its map. Then export them as a set of assets.
  To Do List
 1. Focus on Procedural Landmass Generation (Sebastian Lague) course
 2. Create your own version of Cellular Automata using Unity.
+3. Import 3D Asset
+4. Draw your own artwork
 */
